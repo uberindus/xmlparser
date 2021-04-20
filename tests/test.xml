@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student num="1">
+		<name>
+			Михаил
+		</name>
+		<surname>
+			Енин
+		</surname>
+		<course id="1">Математика</course>
+	</student>
+	<student num="2">
+		<name>
+			Анабель
+		</name>
+		<surname>
+			Курт
+		</surname>
+		<course>Биология</course>
+	</student>
+	<student num="3">
+		<name>Михаил</name>
+		<surname>
+			Гордон
+		</surname>
+		<course id="">биология</course>
+	</student>
+	<student num="4">
+		<name></name>
+		<surname>Енин</surname>
+		<course id="">Математика</course>
+	</student>
+</students>
